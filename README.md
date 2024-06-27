@@ -1,17 +1,18 @@
 </head>
 <body>
-  <h1>🌌Galaxy Manager🌌</h1>
+  <h1>🏕️Camp Manager🏕️</h1>
 
-![68747470733a2f2f692e696d6775722e636f6d2f366d454942786d2e706e67](https://github.com/Pizlizquiz/Galaxy-Manager/assets/173635470/3b40c8ab-7785-47b3-92ab-60c9e42ddc72)
+![app-screenshot--discover](https://github.com/Pizlizquiz/Camp-Manager/assets/173635470/d719e3be-5647-4dc5-a0ba-3454485edcce)
+
 
 
 
 
   <h2>Features</h2>
   <ul>
-    <li><strong>Mod Management:</strong> Galaxy Manager simplifies the installation and management of mods for both Quest and PCVR platforms.</li>
-    <li><strong>Easy Configuration:</strong> With an intuitive user interface, Galaxy Manager makes modding accessible to all users.</li>
-    <li><strong>Quest Headset Modding:</strong> Unlock the full potential of your Quest headset with Galaxy Manager's dedicated tools.</li>
+    <li><strong>Mod Management:</strong> Camp Manager simplifies the installation and management of mods for both Quest and PCVR platforms.</li>
+    <li><strong>Easy Configuration:</strong> With an intuitive user interface, Camp Manager makes modding accessible to all users.</li>
+    <li><strong>Quest Headset Modding:</strong> Unlock the full potential of your Quest headset with Camp Manager's dedicated tools.</li>
   </ul>
 
   <h2>✅Installation✅</h2>
@@ -24,20 +25,20 @@
   </ol>
 
   <h2>🙋Contributing🙋</h2>
-  <p>Galaxy Manager is an open-source project, and contributions from the community are highly encouraged. Join the <a href="https://discord.gg/Galaxy-manager">Galaxy Manager Discord server</a> to connect with the community and learn more about how you can contribute.</p>
+  <p>Camp Manager is an open-source project, and contributions from the community are highly encouraged. Join the <a href="https://discord.gg/Camp-manager">Camp Manager Discord server</a> to connect with the community and learn more about how you can contribute.</p>
 
   <h2>Support</h2>
-  <p>If you encounter any issues or need assistance with Galaxy Manager, feel free to reach out to the community or the project maintainers. You can find support by:</p>
+  <p>If you encounter any issues or need assistance with Camp Manager, feel free to reach out to the community or the project maintainers. You can find support by:</p>
   <ul>
-    <li>Joining the <a href="https://discord.gg/galaxy-manager">Galaxy Manager Discord server</a>.</li>
-    <li>Creating an issue on the <a href="https://github.com/Galaxy-manager/Galaxy-manager/issues">GitHub repository</a>.</li>
+    <li>Joining the <a href="https://discord.gg/Camp-manager">Camp Manager Discord server</a>.</li>
+    <li>Creating an issue on the <a href="https://github.com/Camp-manager/Camp-manager/issues">GitHub repository</a>.</li>
   </ul>
 
   <h2>License</h2>
-  <p>Galaxy Manager is released under the <a href="https://github.com/Galaxy-manager/Galaxy-manager/blob/main/LICENSE">MIT License</a>. You are free to use, modify, and distribute this tool in compliance with the license terms.</p>
+  <p>Camp Manager is released under the <a href="https://github.com/Camp-manager/Camp-manager/blob/main/LICENSE">MIT License</a>. You are free to use, modify, and distribute this tool in compliance with the license terms.</p>
 
   <h2>Acknowledgements</h2>
-  <p>Galaxy Manager would like to express its gratitude to the modding community, whose creativity and passion continue to push the boundaries of virtual reality experiences. Special thanks to all the contributors, supporters, and testers who have helped make this project possible.
+  <p>Camp Manager would like to express its gratitude to the modding community, whose creativity and passion continue to push the boundaries of virtual reality experiences. Special thanks to all the contributors, supporters, and testers who have helped make this project possible.
 
 </body>
 </html>
